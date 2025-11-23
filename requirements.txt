@@ -1,0 +1,14 @@
+Flask==2.3.3
+Flask-Cors==3.1.13
+Flask-SQLAlchemy==3.0.5
+SQLAlchemy==2.0.22
+Pillow==10.1.0
+pytesseract==0.3.10
+PyMuPDF==1.23.3
+whisper==20230405
+chromadb==0.4.2
+requests==2.31.0
+sentence-transformers==2.2.2
+torch==2.2.0
+transformers==4.34.0
+numpy==1.26.5
