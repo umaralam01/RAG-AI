@@ -1,4 +1,4 @@
-# 🚀 NovaRAG AI
+# 🚀 RAG AI
 
 **Multimodal Retrieval-Augmented Generation (RAG) System for PDFs, Audio, and Images**
 
