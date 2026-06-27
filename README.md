@@ -47,4 +47,4 @@ It integrates multiple AI models to process **text, voice, and images** and comb
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/umaralam01/NovaRAG-AI.git
+git clone https://github.com/umaralam01/RAG-AI.git
